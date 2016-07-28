@@ -1,9 +1,5 @@
-###tbl_ConnectLog
+### tbl_ConnectLog
 
- - TABEL NAME 游戏连接Log
- 
- - TABLE CONTENT 用户游戏连接Log
- 
 |NUM|COLUM NAME|DATA TYPE|NULL|DEFAULT|KEY|NOTE|
 | :--- | :---: | --- | --- | --- | :---: | :--- |
 |1|idx|INT|not null|identity(1,1)|PK|数据顺序值|
