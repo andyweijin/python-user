@@ -1,4 +1,4 @@
-# tbl_ConnectLog | 游戏连接Log
+# tbl_ConnectLog    |  游戏连接Log
 
 |NUM|COLUM NAME|DATA TYPE|NULL|DEFAULT|KEY|NOTE|
 | :--- | :---: | --- | --- | --- | :---: | :--- |
